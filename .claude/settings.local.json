@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(python3:*)",
+      "Bash(node:*)",
+      "mcp__rube__RUBE_FIND_RECIPE",
+      "mcp__rube__RUBE_SEARCH_TOOLS",
+      "mcp__rube__RUBE_CREATE_UPDATE_RECIPE",
+      "mcp__rube__RUBE_EXECUTE_RECIPE",
+      "mcp__claude_ai_Rube__RUBE_EXECUTE_RECIPE",
+      "Bash(snow:*)"
+    ]
+  }
+}
