@@ -47,7 +47,7 @@ cp .env.example .env   # fill in your keys
 python example_agent.py
 ```
 
-> **Note:** `script.js` is a legacy sample with hardcoded secrets and a misleading extension (Python code in a .js file). Use `example_agent.py` instead.
+> **Note:** The legacy `script.js` sample (hardcoded secrets, Python code in a `.js` file) has been removed. Use `example_agent.py` instead.
 
 ## Personal Cursor skills
 
